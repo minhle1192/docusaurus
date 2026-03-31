@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2026-03-31T08:49:09.292Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3234254078",
+        "path": "outstatic/content/tutorial-intro/tutorial-intro.mdx"
+      },
+      "author": {
+        "name": "minhle1192",
+        "picture": "https://avatars.githubusercontent.com/u/24857231?v=4"
+      },
+      "collection": "tutorial-intro",
+      "publishedAt": "2026-03-31T09:30:38.451Z",
+      "slug": "tutorial-intro",
+      "status": "draft",
+      "title": "Tutorial Intro"
+    }
+  ]
+}

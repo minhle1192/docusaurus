@@ -1,7 +1,7 @@
 content:
   - label: Documentation
     name: docs
-    path: website/src/pages
+    path: docs
     type: collection
     extension: md
     fields:
